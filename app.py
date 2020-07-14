@@ -8,7 +8,7 @@ from docx.shared import Inches
 
 app = Flask(__name__)
 
-### THIS ONE WORKS WITH FORM-DATA
+### THIS ONE WORKS WITH FORM-DATA.
 @app.route('/api/v1/resources/text/', methods=['POST'])
 def summarize_from_text():
     
