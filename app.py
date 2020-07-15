@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import pickle as p
 import json
-from summarization.textsummarization import bert_sum
+#from summarization.textsummarization import bert_sum
 from docx import Document
 from docx.shared import Inches
 from linkcheck import flag_private_urls
