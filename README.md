@@ -2,4 +2,4 @@
 Trying a more simple version of a flask api framework
 
 
-# This is now depricated, use bot-flask-api-light-2
+# need to figre out which one is hooked to the app...
